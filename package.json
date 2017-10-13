@@ -10,5 +10,9 @@
     "hxtools": "./bin/hxtools.js"
   },
   "author": "hxkuan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "node-apk-parser": "^0.2.3"
+  }
 }
