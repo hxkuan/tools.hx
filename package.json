@@ -1,0 +1,14 @@
+{
+  "name": "hx-tools",
+  "version": "0.0.1",
+  "description": "node 的工具程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hxtools": "./bin/hxtools.js"
+  },
+  "author": "hxkuan",
+  "license": "ISC"
+}
